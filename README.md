@@ -1,4 +1,4 @@
-# Dynamic instance variables & attributes
+# Dynamic instance variables
 
 The GenericEntity class should allow any hash to be passed to its initializer which then creates instance variables for each key/value pair in the hash:
 ```
